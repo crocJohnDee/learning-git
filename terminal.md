@@ -1,4 +1,4 @@
-#5 basic terminal commands
+# 5 basic terminal commands
 
 pwd   - See where you are
 
