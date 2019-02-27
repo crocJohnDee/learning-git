@@ -74,3 +74,5 @@ local | local | local | remote
 + **merge**
   
   merge you branch back into the master branch.
+
+Everything is already done!
